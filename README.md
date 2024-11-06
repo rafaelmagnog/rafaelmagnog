@@ -3,6 +3,7 @@
 [![Rafael Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmagnog&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green)](https://github.com/rafaelmagnog/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagnog&layout=compact&langs_count=16&show_icons=true&theme=blue-green)](https://github.com/rafaelmagnog/github-readme-stats)
 
+[![Snake animation](https://github.com/rafaelmagnog)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+to+My+Profile;My+Name+is+Rafael+Magno;I'm+From+Paraíba,Brazil;I+study+Computer+Science)](https://git.io/typing-svg)
 
