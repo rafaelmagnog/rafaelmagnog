@@ -20,7 +20,7 @@
 I am a proactive individual committed to delivering my best in every project. Passionate about continuous learning, I stay updated with the latest trends in Development and Technology. I actively work on enhancing my soft skills and strive to contribute effectively in team environments.
 
 ## 🌱 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=python,php,c,js,html,css,git)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,php,c,js,html,css,git)](https://skillicons.dev)
 
 ## 📫 How to Reach Me:
 <div align="left">
