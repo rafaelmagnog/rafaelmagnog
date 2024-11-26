@@ -1,7 +1,7 @@
 <h2 align="center">Hello there 👋! I'm Rafael Magno</h2>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology;Exploring+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&size=18&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology;Exploring+Development" alt="Typing SVG" />
 </div>
 
 ---
