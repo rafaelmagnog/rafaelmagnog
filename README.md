@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,git,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,net,python,django,git,mysql,docker)](https://skillicons.dev)
 
 ---
 
