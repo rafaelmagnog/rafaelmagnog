@@ -27,10 +27,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmagnog&include_all_commits=true&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagnog&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  | ![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmagnog&theme=tokyonight&show_icons=true&) | [![Rafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagnog&theme=tokyonight&show_icons=true&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
+  |:--:|:--:|
+
+</div>
 
 ---
 
