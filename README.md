@@ -37,7 +37,7 @@
 ---
 
 ## 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=java,spring,net,cs,c,python,django,docker,mysql,postgres,mongodb,aws,ts)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,net,cs,c,python,docker,mysql,postgres,mongodb,aws,ts,js)](https://skillicons.dev)
 
 ---
 
