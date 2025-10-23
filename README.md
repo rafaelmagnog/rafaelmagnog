@@ -42,14 +42,16 @@
 ---
 
 ## 📫 How to Reach Me
+
 <div align="left">
   <a href="https://linkedin.com/in/rafael-magno-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:rafaelmagno.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
 </div>
+
 
 ---
 
