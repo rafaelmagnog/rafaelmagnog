@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,net,python,git,mysql,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,net,python,git,mysql,postgres,gitlab)](https://skillicons.dev)
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ## 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=java,spring,net,cs,c,python,docker,mysql,postgres,mongodb,aws,ts,js)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,cs,net,python,docker,mysql,postgres,mongodb,aws,ts,js,nodejs,react)](https://skillicons.dev)
 
 ---
 
