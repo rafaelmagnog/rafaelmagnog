@@ -27,9 +27,10 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Metrics](./assets/github/metrics.svg)
-
+<div align="center">
+  
+  ![Metrics](./assets/github/metrics.svg)
+</div>
 
 ---
 
