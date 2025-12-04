@@ -27,9 +27,9 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="./metrics.svg" width="100%" alt="GitHub Metrics - TokyoNight Theme">
-</div>
+
+![Metrics](./assets/github/metrics.svg)
+
 
 ---
 
