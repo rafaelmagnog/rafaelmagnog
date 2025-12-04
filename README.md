@@ -28,10 +28,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-  | ![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmagnog&theme=tokyonight&show_icons=true&) | [![Rafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagnog&theme=tokyonight&show_icons=true&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
-  |:--:|:--:|
-
+  <img src="./metrics.svg" width="100%" alt="GitHub Metrics - TokyoNight Theme">
 </div>
 
 ---
