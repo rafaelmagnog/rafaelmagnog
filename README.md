@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cs,net,python,postgres,mysql,html,css,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cs,net,python,postgres,mysql,html,css,git,gitlab,postman)](https://skillicons.dev)
 
 ---
 
