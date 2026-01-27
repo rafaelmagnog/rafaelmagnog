@@ -45,7 +45,7 @@
   <a href="https://linkedin.com/in/rafael-magno-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 10px;" alt="LinkedIn" />
   </a>
-  <a href="mailto:rafaelmagno.dev@gmail.com">
+  <a href="mailto:rafaelmagnogt@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
 </div>
